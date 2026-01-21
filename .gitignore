@@ -14,3 +14,7 @@ __pycache__/
 
 # OS
 .DS_Store
+
+# Data files 
+data_science/DATA/*
+!data_science/DATA/.gitkeep
