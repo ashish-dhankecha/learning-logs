@@ -1,0 +1,16 @@
+jupyter==1.0.0
+notebook
+
+numpy
+pandas
+scipy
+scikit-learn
+
+matplotlib
+seaborn
+
+SQLAlchemy
+openpyxl
+lxml
+MarkupSafe
+Pillow
